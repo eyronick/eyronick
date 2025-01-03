@@ -1,6 +1,6 @@
-<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBrdW11bzVqb2trNnB6ZHg4dTJlbHJ6dnpkdWwybTQzZXg1YTc1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d7O6RdWEfvGJNtKowA/giphy.gif' width='40px' align='left'></img>
+<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBrdW11bzVqb2trNnB6ZHg4dTJlbHJ6dnpkdWwybTQzZXg1YTc1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d7O6RdWEfvGJNtKowA/giphy.gif' width='20px' align='left'></img>
 
-### Hi there, I'm Nikhil 👋
+### Hi there, I'm Nikhil
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nickkcode-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nickkcode/)
@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/nickkcode?style=social)](https://x.com/nickkcode)
 
 <!-- Introduction -->
-I'm a Web developer, currently pursing my Computer Science degree.
+I'm a Software developer, currently pursing my Computer Science degree.
 
 
 <!-- Skills & Technologies -->
