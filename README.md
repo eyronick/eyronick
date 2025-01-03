@@ -15,8 +15,8 @@ I'm a Software developer, currently pursing my Computer Science degree.
 ### 🔧 Technologies & Tools
 - **Languages:** Python, JavaScript, Typescript
 - **Frameworks:** React, Node.js, Next.js, Express
-- **Tools:** Git, VS Code
 - **Databases:** MySQL, PostgreSQL, MongoDB
+- **Others:** Git, VS Code, Linux
 
 
 
