@@ -9,15 +9,6 @@ I'm a Software developer, currently pursing my Computer Science degree.
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Others:** Git, VS Code, Linux
 
-
-<div align='center'>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nickkcode&bg_color=00000000&color=9745f5&line=9745f5&point=9745f5&hide_border=true&hide_title=true" />
-</div>
-
-  <br>
-<br>  
-
-
 <!-- Contact -->
 ### 📫 Reach me
 Email: [nickkcode@gmail.com](mailto:nickkcode@gmail.com)
