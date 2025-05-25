@@ -15,17 +15,17 @@
   <div align="left">
   
 ```javascript
-const getData = () => ({
+const getProfile = () => ({
   name: "Nikhil Singh Mehta",
-  role: "Full Stack Dev",
+  role: "Full Stack Developer",
   location: "Uttarakhand, India",
-  vibe: "Loves clean UI, powerful APIs, and building cool stuff"
+  summary: "Building clean, scalable web apps."
 });
 
 const getSkills = () => ({
-  frontend: ["⚛️ React", "💨 Tailwind", "🧠 Next.js", "🎞️ Motion"],
-  backend: ["🌐 Node", "🚪 Express", "🍃 MongoDB", "🐘 Postgres", "🔐 JWT"],
-  tools: ["🐳 Docker", "📁 Git", "🎨 Figma"]
+  frontend: ["React", "Tailwind CSS", "Next.js", "Framer Motion"],
+  backend: ["Node.js", "Express", "MongoDB", "PostgreSQL", "JWT"],
+  tools: ["Docker", "Git", "Figma"]
 });
 ```
   </div>
