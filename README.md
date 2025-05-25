@@ -11,8 +11,9 @@
 
 <div>&nbsp;</div>
 
+ <img align="right"  width="300px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2R0djFsMmRwenZoaDg0bnV5Zjg2OWhvMzk0NTJxZmR0dnh1dm9sdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5TP5AzxgesmNsQvdXl/giphy.gif"/>
+
 <div>
-  <div align="left">
   
 ```javascript
 const getProfile = () => ({
@@ -28,10 +29,7 @@ const getSkills = () => ({
   tools: ["Docker", "Git", "Figma"]
 });
 ```
-  </div>
-  <div align="right" width="200">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2R0djFsMmRwenZoaDg0bnV5Zjg2OWhvMzk0NTJxZmR0dnh1dm9sdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5TP5AzxgesmNsQvdXl/giphy.gif"/>
-  </div>
+
 </div>
 
 
