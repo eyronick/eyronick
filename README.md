@@ -1,22 +1,27 @@
-<div width="50%">
-  <h2>Hey, It's Nikhil</h2>
-  <h4>Software Developer based in India, working at the edge of design and function.</h2>
-  <div style="display: flex; gap: 8px;">
-  <a href="https://www.linkedin.com/in/nickkcode" target="_blank">
-    <img src="./assets/icons/linkedin.svg"/>
-  </a>
-  <a href="https://www.x.com/nickkcode" target="_blank">
-    <img src="./assets/icons/twitter-x.svg"/>
-  </a>
-  <a href="https://www.discord.com/nickkcode" target="_blank">
-    <img src="./assets/icons/discord.svg"/>
-  </a>
-  </div>
+<div align="center">
+  <pre>Hey, It's Nikhil, Software Developer from India.</pre>
+  <a href="https://www.x.com/nickkcode">Twitter</a>
+  •
+  <a href="mailto:25nikmehta@gmail.com">Email</a>
+  •
+  <a href="https://www.linkedin.com/in/nickkcode">Linkedin</a>
+  •
+  <a href="">Website</a>
 </div>
 
-<div>
-  <div align="center">
-    <p>My Experties</p>
-        <img src="https://skillicons.dev/icons?i=apollo,docker,express,figma,firebase,git,graphql,javascript,jest,linux,mongodb,nextjs,nodejs,notion,npm,postgres,postman,prisma,react,supabase,tailwind,typescript&perline=11" />
-  </div>
-</div>
+```javascript
+const getData = () => {
+  const name = "Nikhil Singh Mehta";
+  const currentWork = null;
+
+  return {name, currentWork};
+}
+
+const getSkills = () => {
+  const frontend = ["React", "Tailwind", "NextJS", "Motion"];
+  const backend = ["Node", "Express", "Mongo", "Postgres", "JWT"];
+  const other = ["Figma", "Git", "Docker"];
+
+  return {frontend, backend, other};
+}
+```
