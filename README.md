@@ -6,7 +6,7 @@
   •
   <a href="https://www.linkedin.com/in/nickkcode">Linkedin</a>
   •
-  <a href="https://portfolio-smoky-chi-69.vercel.app/blog">Website</a>
+  <a href="https://portfolio-smoky-chi-69.vercel.app">Website</a>
 </div>
 
 <div>&nbsp;</div>
@@ -34,7 +34,7 @@ const getSkills = () => ({
 
 
 <div align="right" width="200">
-  <a href="https://portfolio-smoky-chi-69.vercel.app/blog">
+  <a href="https://portfolio-smoky-chi-69.vercel.app">
     <i>~ nickkcode</i>
   </a>
 </div>
