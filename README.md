@@ -1,8 +1,16 @@
 <div width="50%">
   <h2>Hey, It's Nikhil</h2>
   <h4>Software Developer based in India, working at the edge of design and function.</h2>
-  <div>
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/example_folder/example.svg"/>
+  <div style="display: flex; gap: 8px;">
+  <a href="https://www.linkedin.com/in/nickkcode" target="_blank">
+    <img src="./assets/icons/linkedin.svg"/>
+  </a>
+  <a href="https://www.x.com/nickkcode" target="_blank">
+    <img src="./assets/icons/twitter-x.svg"/>
+  </a>
+  <a href="https://www.discord.com/nickkcode" target="_blank">
+    <img src="./assets/icons/discord.svg"/>
+  </a>
   </div>
 </div>
 
