@@ -16,10 +16,10 @@
   
 ```javascript
 const getData = () => ({
-  name: "👨‍💻 Nikhil Singh Mehta",
+  name: "Nikhil Singh Mehta",
   role: "Full Stack Dev",
-  location: "📍 Haldwani, India",
-  vibe: "🚀 Loves clean UI, powerful APIs, and building cool stuff"
+  location: "Uttarakhand, India",
+  vibe: "Loves clean UI, powerful APIs, and building cool stuff"
 });
 
 const getSkills = () => ({
