@@ -15,43 +15,18 @@
   <div align="left">
   
 ```javascript
-const getData = () => {
-  const name = "👨‍🚀 Nikhil Singh Mehta";
-  const role = "Full Stack Dev";
-  const loves = ["clean UI", "powerful APIs", "building cool stuff"];
+const getData = () => ({
+  name: "👨‍💻 Nikhil Singh Mehta",
+  role: "Full Stack Dev",
+  location: "📍 Haldwani, India",
+  vibe: "🚀 Loves clean UI, powerful APIs, and building cool stuff"
+});
 
-  return {
-    name,
-    role,
-    vibe: `🚀 ${role} who loves ${loves.join(", ")}`,
-    location: "📍 Haldwani, India",
-  };
-};
-
-const getSkills = () => {
-  const skills = {
-    frontend: ["⚛️ React", "💨 Tailwind", "🧠 Next.js", "🎞️ Framer Motion"],
-    backend: ["🌐 Node.js", "🚪 Express", "🍃 MongoDB", "🐘 Postgres", "🔐 JWT"],
-    tools: ["🐳 Docker", "📁 Git", "🧪 Postman", "🎨 Figma"]
-  };
-
-  Object.entries(skills).map(([area, stack]) => {
-    console.log(`\n🔹 ${area.toUpperCase()}`);
-    stack.forEach(skill => console.log(`  • ${skill}`));
-  });
-
-  return skills;
-};
-
-(() => {
-  const { name, vibe } = getData();
-  console.log(`\n✨ Hello, I'm ${name}`);
-  console.log(vibe);
-
-  getSkills();
-})();
-
-
+const getSkills = () => ({
+  frontend: ["⚛️ React", "💨 Tailwind", "🧠 Next.js", "🎞️ Motion"],
+  backend: ["🌐 Node", "🚪 Express", "🍃 MongoDB", "🐘 Postgres", "🔐 JWT"],
+  tools: ["🐳 Docker", "📁 Git", "🎨 Figma"]
+});
 ```
   </div>
   <div align="right" width="200">
