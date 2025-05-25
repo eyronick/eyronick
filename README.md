@@ -10,26 +10,57 @@
 </div>
 
 <div>&nbsp;</div>
+
+<div>
+  <div align="left">
   
 ```javascript
 const getData = () => {
-  const name = "Nikhil Singh Mehta";
-  const currentWork = null;
+  const name = "👨‍🚀 Nikhil Singh Mehta";
+  const role = "Full Stack Dev";
+  const loves = ["clean UI", "powerful APIs", "building cool stuff"];
 
-  return {name, currentWork};
-}
+  return {
+    name,
+    role,
+    vibe: `🚀 ${role} who loves ${loves.join(", ")}`,
+    location: "📍 Haldwani, India",
+  };
+};
 
 const getSkills = () => {
-  const frontend = ["React", "Tailwind", "NextJS", "Motion"];
-  const backend = ["Node", "Express", "Mongo", "Postgres", "JWT"];
-  const other = ["Figma", "Git", "Docker"];
+  const skills = {
+    frontend: ["⚛️ React", "💨 Tailwind", "🧠 Next.js", "🎞️ Framer Motion"],
+    backend: ["🌐 Node.js", "🚪 Express", "🍃 MongoDB", "🐘 Postgres", "🔐 JWT"],
+    tools: ["🐳 Docker", "📁 Git", "🧪 Postman", "🎨 Figma"]
+  };
 
-  return {frontend, backend, other};
-}
+  Object.entries(skills).map(([area, stack]) => {
+    console.log(`\n🔹 ${area.toUpperCase()}`);
+    stack.forEach(skill => console.log(`  • ${skill}`));
+  });
+
+  return skills;
+};
+
+(() => {
+  const { name, vibe } = getData();
+  console.log(`\n✨ Hello, I'm ${name}`);
+  console.log(vibe);
+
+  getSkills();
+})();
+
+
 ```
+  </div>
+  <div align="right" width="200">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2R0djFsMmRwenZoaDg0bnV5Zjg2OWhvMzk0NTJxZmR0dnh1dm9sdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5TP5AzxgesmNsQvdXl/giphy.gif"/>
+  </div>
+</div>
 
 
-<div align="right">
+<div align="right" width="200">
   <a href="https://portfolio-smoky-chi-69.vercel.app/blog">
     <i>~ nickkcode</i>
   </a>
