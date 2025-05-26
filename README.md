@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="./gradii-1584x300.png"/>
-  <div>&nbsp;</div>
+  <img src="./gradii-1920x200.png"/>
 
-  <pre>Software Developer based in India.</pre>
+  <pre>Hey, It's Nikhil, Software Developer based in India.</pre>
   <div>&nbsp;</div>
 
   <a href="https://www.x.com/nickkcodee">Twitter</a>
