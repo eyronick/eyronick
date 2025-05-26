@@ -20,7 +20,7 @@ const getProfile = () => ({
   name: "Nikhil Singh Mehta",
   role: "Full Stack Developer",
   location: "Uttarakhand, India",
-  summary: "Building clean, scalable web apps."
+  summary: "Building clean, scalable Applications."
 });
 
 const getSkills = () => ({
