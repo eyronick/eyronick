@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./gradii-1920x200.png"/>
-
   <pre>Hey, It's Nikhil, Software Developer based in India.</pre>
   <div>&nbsp;</div>
 
