@@ -1,5 +1,10 @@
 <div align="center">
-  <pre>Hey, It's Nikhil, Software Developer from India.</pre>
+  <img src="./gradii-1584x300.png"/>
+  <div>&nbsp;</div>
+
+  <pre>Software Developer based in India.</pre>
+  <div>&nbsp;</div>
+
   <a href="https://www.x.com/nickkcodee">Twitter</a>
   •
   <a href="mailto:25nikmehta@gmail.com">Email</a>
