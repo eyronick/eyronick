@@ -1,11 +1,11 @@
 <div align="center">
   <pre>Hey, It's Nikhil, Software Developer based in India.</pre>
 
-  <a href="https://www.x.com/nickkcodee">Twitter</a>
+  <a href="https://www.x.com/eyronick">Twitter</a>
   •
-  <a href="mailto:25nikmehta@gmail.com">Email</a>
+  <a href="mailto:eyronick@gmail.com">Email</a>
   •
-  <a href="https://www.linkedin.com/in/nickkcode">Linkedin</a>
+  <a href="https://www.linkedin.com/in/eyronick">Linkedin</a>
   •
   <a href="https://portfolio-smoky-chi-69.vercel.app">Website</a>
 </div>
