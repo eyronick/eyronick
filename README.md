@@ -13,18 +13,15 @@
 <div>
   
 ```javascript
-const getProfile = () => ({
-  name: "Nikhil Singh Mehta",
-  role: "Full Stack Developer",
-  location: "India",
-  summary: "Building clean, scalable Applications."
-});
+// @me 👨‍💻
 
-const getSkills = () => ({
-  frontend: ["React", "Tailwind CSS", "Next.js", "Framer Motion"],
-  backend: ["Node.js", "Express", "MongoDB", "PostgreSQL", "JWT"],
-  tools: ["Docker", "Git", "Figma"]
-});
+const data = {
+  name: "Nikhil Singh Mehta",                 // who
+  role: "Full Stack Developer",               // what
+  stack: ["Next.js", "Node.js", "MongoDB"],   // tech
+  tools: ["Docker", "Git", "Figma"],          // gear
+  currently: "building AI tools ⚡",    // now
+};
 ```
 
 </div>
