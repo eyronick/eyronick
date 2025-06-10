@@ -1,7 +1,7 @@
 <div align="center">
   <pre>Hey, It's Nikhil, Software Developer based in India.</pre>
 
-  <a href="https://www.x.com/eyronick">X</a>
+  <a href="https://www.x.com/eyronick">Twitter</a>
   •
   <a href="mailto:eyronick@gmail.com">Email</a>
   •
