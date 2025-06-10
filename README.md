@@ -20,7 +20,7 @@ const data = {
   role: "Full Stack Developer",               // what
   stack: ["Next.js", "Node.js", "MongoDB"],   // tech
   tools: ["Docker", "Git", "Figma"],          // gear
-  currently: "building AI tools ⚡",    // now
+  currently: "Building somw AI tools ⚡",    // now
 };
 ```
 
