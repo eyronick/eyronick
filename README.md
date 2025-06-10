@@ -29,6 +29,6 @@ const data = {
 
 <div align="right" width="200">
   <a href="https://portfolio-smoky-chi-69.vercel.app">
-    <i>~ nickkcode</i>
+    <i>~ eyronick</i>
   </a>
 </div>
