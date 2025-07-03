@@ -16,11 +16,11 @@
 // @me 👨‍💻
 
 const data = {
-  name: "Nikhil Singh Mehta",                 // who
-  role: "Full Stack Developer",               // what
-  stack: ["Next.js", "Node.js", "MongoDB"],   // tech
-  tools: ["Docker", "Git", "Figma"],          // gear
-  currently: "Building some AI tools ⚡",    // now
+  name: "Nikhil Singh Mehta",              
+  role: "Software Developer",              
+  stack: ["React", "Next.js", "Node.js", "tRPC", "GoLang", "PostgreSQL", "MongoDB"],  
+  tools: ["Docker", "Git", "Figma", "Premiere Pro", "After Effects"],         
+  currently: "Building some AI tools ⚡",   
 };
 ```
 
