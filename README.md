@@ -7,7 +7,7 @@
   •
   <a href="https://www.linkedin.com/in/eyronick">Linkedin</a>
   •
-  <a href="https://portfolio-smoky-chi-69.vercel.app">Website</a>
+  <a href="https://eyronick.is-a.dev/">Website</a>
 </div>
 
 <div>
