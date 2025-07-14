@@ -18,17 +18,14 @@
 const data = {
   name: "Nikhil Singh Mehta",              
   role: "Software Developer",              
-  stack: ["React", "Next.js", "Node.js", "tRPC", "GoLang", "PostgreSQL", "MongoDB"],  
-  tools: ["Docker", "Git", "Figma", "Premiere Pro", "After Effects"],         
+  stack: ["React", "Next.js", "Node.js", "tRPC", "PostgreSQL", "MongoDB"],  
+  tools: ["Docker", "Git", "Figma"],         
   currently: "Building some AI tools ⚡",   
 };
 ```
 
 </div>
 
-
 <div align="right" width="200">
-  <a target="_blank" href="https://portfolio-smoky-chi-69.vercel.app">
-    <i>~ eyronick</i>
-  </a>
+    <i>~ updated: july 2025</i>
 </div>
