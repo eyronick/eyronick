@@ -1,5 +1,5 @@
 <div align="center">
-  <pre>Hey, It's Nikhil, Software Developer based in India.</pre>
+  <pre>Software Developer based in India.</pre>
 
   <a target="_blank" href="https://www.x.com/eyronick">Twitter</a>
   •
@@ -15,17 +15,22 @@
 ```javascript
 // @me 👨‍💻
 
-const data = {
-  name: "Nikhil Singh Mehta",              
-  role: "Software Developer",              
-  stack: ["React", "Next.js", "Node.js", "tRPC", "PostgreSQL", "MongoDB"],  
-  tools: ["Docker", "Git", "Figma"],         
-  currently: "Building some AI tools ⚡",   
+const stack = {
+  languages: ["TypeScript", "JavaScript", "Python", "C++",],
+  frontend: ["React", "Next.js", "Vite", "Tailwind CSS", "Framer Motion"],
+  backend: ["Node.js", "tRPC", "Express"],
+  databases: ["PostgreSQL", "MongoDB", "Redis", "MySQL", "Drizzle ORM", "Prisma"],
+  cloud: ["AWS", "Vercel", "Railway", "Netlify", "Cloudflare Workers"],
+  devops: ["Docker", "Kubernetes", "CI/CD", "GitHub Actions", "Nginx"],
+  monitoring: ["Sentry"],
+  ai: ["OpenAI", "LangChain", "Hugging Face", "Replicate"],
+  testing: ["Jest", "Playwright", "Cypress", "Storybook"],
+  tooling: ["Git", "GitHub", "Figma", "Notion", "Postman", "Zod", "turborepo"]
 };
 ```
 
 </div>
 
 <div align="right" width="200">
-    <i>~ updated: july 2025</i>
+    <i>Updated: July 2025</i>
 </div>
