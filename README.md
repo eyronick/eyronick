@@ -13,18 +13,12 @@
 ```javascript
 // @me 👨‍💻
 
-const stack = {
-  languages: ["TypeScript", "JavaScript"],
-  frontend: ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
-  backend: ["Node.js", "tRPC", "Express"],
-  databases: ["PostgreSQL", "MongoDB", "Redis"],
-  cloud: ["AWS", "Vercel", "Railway", "Netlify"],
-  devops: ["Docker", "Kubernetes", "CI/CD", "GitHub Actions", "Nginx"],
-  monitoring: ["Sentry"],
-  ai: ["OpenAI", "LangChain", "Hugging Face"],
-  testing: ["Jest", "Playwright", "Cypress", "Storybook"],
-  tooling: ["Git", "GitHub", "Figma", "Notion", "Postman", "Zod"]
-};
+const stack = () => ({
+  langs: ["TypeScript", "JavaScript"],
+  web:   ["React", "Next.js", "tRPC", "Tailwind"],
+  infra: ["Node.js", "PostgreSQL", "Docker", "Vercel"],
+  tools: ["GitHub", "Figma", "Storybook", "Sentry"]
+});
 ```
 
 </div>
