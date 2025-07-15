@@ -1,15 +1,5 @@
-<div align="center">
-  <a target="_blank" href="https://www.x.com/eyronick">Twitter</a>
-  ‎ ‎ ‎ ‎ 
-  <a target="_blank" href="mailto:eyronick@gmail.com">Email</a>
-  ‎ ‎ ‎ ‎ 
-  <a target="_blank" href="https://www.linkedin.com/in/eyronick">Linkedin</a>
-  ‎ ‎ ‎ ‎ 
-  <a target="_blank" href="https://eyronick.is-a.dev/">Website</a>
-</div>
-<br/>
 <div>
-  
+
 ```javascript
 // @me 👨‍💻
 
@@ -20,7 +10,16 @@ const stack = () => ({
   tools: ["GitHub", "Figma", "Storybook", "Sentry"]
 });
 ```
+</div>
 
+<div align="left" width="200">
+  <a target="_blank" href="https://www.x.com/eyronick"><strong>X</strong></a>
+  ‎ ‎ ‎ ‎ 
+  <a target="_blank" href="mailto:25nikmehta@gmail.com"><strong>Email</strong></a>
+  ‎ ‎ ‎ ‎ 
+  <a target="_blank" href="https://www.linkedin.com/in/eyronick"><strong>Linkedin</strong></a>
+  ‎ ‎ ‎ ‎ 
+  <a target="_blank" href="https://eyronick.is-a.dev/"><strong>Website</strong></a>
 </div>
 
 <div align="right" width="200">
